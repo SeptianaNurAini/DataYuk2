@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502084379976",
+    "project_id": "fir-login-signup-cf253",
+    "storage_bucket": "fir-login-signup-cf253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502084379976:android:9afdf5ebab56796efbbf7d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502084379976-uenm0c3240g3hk23t4me29td9tk8uegj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKD1HXVoKzfsNqQNqmLmb7dS6Ah3xiTQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502084379976-uenm0c3240g3hk23t4me29td9tk8uegj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
